@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f7f144eda2b32c449600bd22ae6fcbe, type: 3}
+  m_Name: SaleEnds
+  m_EditorClassIdentifier: 
+  narrationName: Sale ends
+  narrationClip: {fileID: 8300000, guid: 9b43de509e1b3a343adcd0b71e2f93a0, type: 3}
+  alineas:
+  - endTime: 6
+    alineaText: 'Sale Ends Today  was created in 2006 and combines humour and critique
+      on a grand scale. '
+  - endTime: 17.5
+    alineaText: "Four kneeling women in mourning poses are shown. They are reminiscent
+      of religious paintings, but instead of lamenting a messiah, they grieve over
+      a bright red sign reading \u201CSALE ENDS TODAY.\u201D . "
+  - endTime: 24
+    alineaText: This clever twist critiques consumerism, suggesting it rivals religious
+      devotion in modern life.

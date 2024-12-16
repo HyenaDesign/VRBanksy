@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f7f144eda2b32c449600bd22ae6fcbe, type: 3}
+  m_Name: MildWest
+  m_EditorClassIdentifier: 
+  narrationName: Mild mild west
+  narrationClip: {fileID: 8300000, guid: cc0de8811be1962499ac0f9ca307b4c5, type: 3}
+  alineas:
+  - endTime: 10
+    alineaText: "The mural The Mild Mild West, painted in 1999 in Bristol\u2019s
+      bohemian Stokes Croft neighbourhood, is one of Banksy\u2019s earliest and most
+      iconic works. "
+  - endTime: 18
+    alineaText: "A brightly coloured teddy bear throws a Molotov cocktail at three
+      police officers, symbolizing the city\u2019s rebellious, creative spirit. "
+  - endTime: 26
+    alineaText: "This piece was Banksy\u2019s response to police raids on Bristol\u2019s
+      underground warehouse parties in the 1990\u2019s. "

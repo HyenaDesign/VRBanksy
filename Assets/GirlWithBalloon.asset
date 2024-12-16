@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f7f144eda2b32c449600bd22ae6fcbe, type: 3}
+  m_Name: GirlWithBalloon
+  m_EditorClassIdentifier: 
+  narrationName: Girl with balloon
+  narrationClip: {fileID: 8300000, guid: d7bd852795808f543a06768d203e2d3c, type: 3}
+  alineas:
+  - endTime: 8
+    alineaText: 'Girl with Balloon is a series of stencil murals created in 2002,
+      showing a young girl reaching for a red heart-shaped balloon floating away. '
+  - endTime: 16
+    alineaText: 'While its exact purpose isn''t stated, it symbolizes hope, love,
+      and loss, often tied to dreams or opportunities slipping away. '
+  - endTime: 24
+    alineaText: "Originally painted in locations around London, none of the original
+      murals remain. This mural has since become one of Banksy\u2019s most famous
+      works."

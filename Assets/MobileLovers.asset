@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f7f144eda2b32c449600bd22ae6fcbe, type: 3}
+  m_Name: MobileLovers
+  m_EditorClassIdentifier: 
+  narrationName: 
+  narrationClip: {fileID: 0}
+  alineas:
+  - endTime: 12
+    alineaText: "In 2014 Mobile Lovers was painted on a stone wall on Clement Street
+      in Bristol. It depicts a lovely couple in a close embrace but, instead of gazing
+      lovingly into each other\u2019s eyes, they both seem to be hypnotized by their
+      own phones\u2026 "
+  - endTime: 19
+    alineaText: "With this striking visual,\_Banksy\_critiques the fact that our
+      phones now rule our lives, even in the most intimate moments. "
+  - endTime: 28
+    alineaText: "The constant notifications and online mindset make us forget the
+      most important part of who we are, and sometimes take what we have in front
+      of us for granted\u2026"
