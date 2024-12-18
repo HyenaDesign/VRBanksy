@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2f7f144eda2b32c449600bd22ae6fcbe, type: 3}
   m_Name: Bataclan
   m_EditorClassIdentifier: 
-  narrationName: 
-  narrationClip: {fileID: 0}
+  narrationName: Bataclan
+  narrationClip: {fileID: 8300000, guid: bcc13fa5a92afd943872c9ad1426490d, type: 3}
   alineas:
   - endTime: 7.5
     alineaText: 'In June 2018, this mural could be seen on a fire-escape door of

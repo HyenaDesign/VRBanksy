@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2f7f144eda2b32c449600bd22ae6fcbe, type: 3}
   m_Name: MobileLovers
   m_EditorClassIdentifier: 
-  narrationName: 
-  narrationClip: {fileID: 0}
+  narrationName: Mobile lovers
+  narrationClip: {fileID: 8300000, guid: 57731401dbb520d49b551a165be71499, type: 3}
   alineas:
   - endTime: 12
     alineaText: "In 2014 Mobile Lovers was painted on a stone wall on Clement Street
